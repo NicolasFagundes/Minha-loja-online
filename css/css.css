@@ -1,0 +1,51 @@
+#header{
+background-color: #4F4F4F;
+width: 1350px;
+height: 150px;
+}
+#menu{
+	background-color: #4F4F4F;
+	width:1350px;
+	height: 50px;
+}
+#nav{
+	float: left;
+	background-color: #4F4F4F;
+	width: 250px;
+	height: 408px;
+}
+#cont{
+    background-color: #4F4F4F;
+	float: right;
+
+	width: 1083px;
+	height: 409px;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+a:active{
+	text-decoration: none;
+	color: blue;
+	}
+a:hover{
+	text-decoration: none;
+	color: blue;
+}
+a:link{
+	text-decoration: none;
+	color: red;
+}
+a:visited{
+	text-decoration: none;
+	color: red;
+}
+body{
+	overflow: hidden;
+}
+iframe{
+	overflow: hidden;
+}
